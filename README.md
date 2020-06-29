@@ -1,4 +1,4 @@
-# SKYWALKER
+# Skywalker
 
 SKYWALKER: Spitzer Key Yield With All that Light Kurve Exoplanet Research
 
